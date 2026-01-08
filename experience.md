@@ -1,10 +1,8 @@
 # 💼 Professional Experience
 
----
-
 ## ![Intelizign Logo](./logos/intelizign.png) Cloud & Linux Engineer
 **Intelizign · Full-time**  
-📅 Apr 2025 – Present (10 months)  
+📅 Apr 2025 – Present 
 📍 Bengaluru, Karnataka, India · On-site  
 
 **Responsibilities:**  
@@ -14,8 +12,6 @@
 
 **Skills / Technologies:**  
 Linux, Cloud Infrastructure, Automation, DevOps, Monitoring, Bash, Docker  
-
----
 
 ## ![Innoviti Technologies Logo](./logos/innoviti.png) System Administrator
 **Innoviti Technologies · Full-time**  
@@ -30,8 +26,6 @@ Linux, Cloud Infrastructure, Automation, DevOps, Monitoring, Bash, Docker
 **Skills / Technologies:**  
 Linux Administration, VMware vSphere, Networking, Scripting, Monitoring  
 
----
-
 ## ![BYJU'S Logo](./logos/byjus.png) System Engineer
 **BYJU'S · Full-time**  
 📅 Feb 2022 – Jan 2023 (1 yr)  
@@ -43,8 +37,6 @@ Linux Administration, VMware vSphere, Networking, Scripting, Monitoring
 
 **Skills / Technologies:**  
 Linux, DNS, Scripting, Troubleshooting  
-
----
 
 ## ![Teleone Consumers Product Pvt Ltd Logo](./logos/teleone.png) Technical Support Engineer
 **Teleone Consumers Product Pvt Ltd · Full-time**  
