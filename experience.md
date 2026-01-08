@@ -26,7 +26,7 @@ Linux, Cloud Infrastructure, Automation, DevOps, Monitoring, Bash, Docker
 **Skills / Technologies:**  
 Linux Administration, VMware vSphere, Networking, Scripting, Monitoring  
 
-## ![BYJU'S ](./logos/byjus.png) System Engineer
+## [BYJU'S ](./logos/byjus.png) System Engineer
 **BYJU'S · Full-time**  
 📅 Feb 2022 – Jan 2023 (1 yr)  
 📍 Bengaluru, Karnataka, India · On-site  
@@ -38,7 +38,7 @@ Linux Administration, VMware vSphere, Networking, Scripting, Monitoring
 **Skills / Technologies:**  
 Linux, DNS, Scripting, Troubleshooting  
 
-## ![Teleone Consumers Product Pvt Ltd ](./logos/teleone.png) Technical Support Engineer
+## [Teleone Consumers Product Pvt Ltd ](./logos/teleone.png) Technical Support Engineer
 **Teleone Consumers Product Pvt Ltd · Full-time**  
 📅 Jan 2021 – Jan 2022 (1 yr 1 month)  
 📍 Bangalore Urban, Karnataka, India · On-site  
