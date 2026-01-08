@@ -1,6 +1,6 @@
 # 💼 Professional Experience
 
-##[Intelizign](./logos/intelizign.png) Cloud & Linux Engineer
+## [Intelizign](./logos/intelizign.png) Cloud & Linux Engineer
 **Intelizign · Full-time**  
 📅 Apr 2025 – Present 
 📍 Bengaluru, Karnataka, India · On-site  
@@ -13,7 +13,7 @@
 **Skills / Technologies:**  
 Linux, Cloud Infrastructure, Automation, DevOps, Monitoring, Bash, Docker  
 
-## ![Innoviti Technologies](./logos/innoviti.png) System Administrator
+## [Innoviti Technologies](./logos/innoviti.png) System Administrator
 **Innoviti Technologies · Full-time**  
 📅 Feb 2023 – Mar 2025 (2 yrs 2 months)  
 📍 Bengaluru, Karnataka, India · On-site  
