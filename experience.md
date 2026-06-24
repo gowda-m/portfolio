@@ -11,7 +11,7 @@
 - Ensuring scalable, secure enterprise systems  
 
 **Skills / Technologies:**  
-Linux, Cloud Infrastructure, Automation, DevOps, Monitoring, Bash, Docker  
+Linux, Cloud Infrastructure, Automation, DevOps, Monitoring, Bash, Docker, jenkins 
 
 ## [Innoviti Technologies](./logos/innoviti.png) System Administrator
 **Innoviti Technologies · Full-time**  
@@ -44,8 +44,8 @@ Linux, DNS, Scripting, Troubleshooting
 📍 Bangalore Urban, Karnataka, India · On-site  
 
 **Responsibilities:**  
-- Providing technical support on Ubuntu systems  
-- Working with VoIP protocols (SIP) and network troubleshooting  
+- L1 support 
+- Providing technical support on Ubuntu systems 
+- Working with VoIP protocols (SIP) and network troubleshooting
+- os instalation and configuration 
 
-**Skills / Technologies:**  
-Ubuntu, SIP/VoIP, Linux, Troubleshooting
