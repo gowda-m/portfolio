@@ -6,7 +6,7 @@ My expertise includes CI/CD pipeline implementation using Jenkins, version contr
 
 I focus on automating repetitive operational tasks through Shell scripting, including backup automation, system health checks, monitoring, and routine maintenance. I also have experience working with Maven, Node.js, and Angular in application build, dependency management, and deployment workflows.
 
-I am continuously enhancing my skills in DevOps automation, CI/CD pipelines, configuration management, containerization, and cloud-native technologies to improve deployment efficiency, system reliability, and operational consistency. My goal is to build and maintain scalable, secure, and highly available infrastructure while streamlining software delivery through automation and DevOps best practices.
+I am continuously enhancing my skills in DevOps automation, CI/CD pipelines, configuration management, containerization, and cloud native technologies to improve deployment efficiency, system reliability, and operational consistency. My goal is to build and maintain scalable, secure, and highly available infrastructure while streamlining software delivery through automation and DevOps best practices.
 
 💼 Experience → [View Experience](./experience.md)
 
