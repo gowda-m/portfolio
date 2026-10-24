@@ -1,6 +1,6 @@
 # 💼 Professional Experience
 
-## [Intelizign](./logos/intelizign.png) Cloud & Linux Engineer
+## [Intelizign](./logos/intelizign.png) DevOps Engineer
 **Intelizign · Full-time**  
 📅 Apr 2025 – Present 
 📍 Bengaluru, Karnataka, India · On-site  
