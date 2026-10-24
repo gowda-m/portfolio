@@ -1,12 +1,12 @@
-## 👋 About Me
+👋 About Me
 
-Hi, I’m **Gowda M**, an IT professional with strong hands-on experience in **Linux system administration, server operations, and DevOps engineering**. I have worked extensively in enterprise environments managing **SLES and Ubuntu servers**, virtualization platforms like **Proxmox and VMware ESXi**, and container technologies including **Docker**.
+Hi, I’m Gowda M, a DevOps Engineer with hands-on experience in Linux system administration, infrastructure management, server operations, and DevOps automation. I have experience managing enterprise Linux environments, including SLES and Ubuntu, virtualization platforms such as Proxmox and VMware ESXi, and container technologies like Docker.
 
-I specialize in designing and maintaining **secure, stable, and automated infrastructure**, with deep experience in **Active Directory–integrated Linux systems**, **LVM storage management**, filesystem mounting, and enterprise-grade **backup solutions using Veeam and Proxmox backup integration**. I have implemented **automated backup, monitoring, and system health-check scripts using Shell scripting**.
+My expertise includes CI/CD pipeline implementation using Jenkins, version control with GitHub, infrastructure automation using Ansible, and application deployment and management with WildFly. I have a strong foundation in Linux administration, Active Directory integration, LVM storage management, filesystem configuration, and enterprise backup solutions using Veeam and Proxmox Backup Server.
 
-On the DevOps side, I have hands-on exposure to **CI/CD pipelines using Jenkins**, application deployment and management with **WildFly**, and dependency management tools such as **Maven, Node.js, and Angular**. I actively use **GitHub for version control and collaboration**, and I am building automation workflows using **Ansible playbooks** to simplify configuration management and deployment.
+I focus on automating repetitive operational tasks through Shell scripting, including backup automation, system health checks, monitoring, and routine maintenance. I also have experience working with Maven, Node.js, and Angular in application build, dependency management, and deployment workflows.
 
-I am continuously strengthening my skills in **CI/CD automation, infrastructure automation, containerization, and cloud-ready DevOps practices**, with a strong focus on delivering **scalable, reliable, and production-ready systems**.
+I am continuously enhancing my skills in DevOps automation, CI/CD pipelines, configuration management, containerization, and cloud-native technologies to improve deployment efficiency, system reliability, and operational consistency. My goal is to build and maintain scalable, secure, and highly available infrastructure while streamlining software delivery through automation and DevOps best practices.
 
 💼 Experience → [View Experience](./experience.md)
 
