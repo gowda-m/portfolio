@@ -1,6 +1,6 @@
-# 📂 Projects
+#Projects
 
-## 🔧 Linux Active Directory Integration (SLES 15 SP4)
+## Linux Active Directory Integration (SLES 15 SP4)
 
 **Role:** Linux System Administrator
 
@@ -80,7 +80,7 @@ Installed and configured web and database servers for application environments.
 * Configured MySQL and MariaDB using binary installation
 * Managed systemd services and log files
 * Implemented backup and recovery procedures
-* Tuned basic performance parameters
+* and basic performance parameters
 
 ### Technologies Used
 
