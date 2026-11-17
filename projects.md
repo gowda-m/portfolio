@@ -44,7 +44,7 @@ Proxmox VE | ZFS | Virtualization | NAS | Linux
 
 ---
 
-## 🐳 Docker Containerization & Learning Projects
+## Docker Containerization & Learning Projects
 
 **Role:** DevOps (Learning / Practice)
 
@@ -66,7 +66,7 @@ Docker | Linux | Bash
 
 ---
 
-## 🌐 Web & Database Server Setup
+## Web & Database Server Setup
 
 **Role:** Linux Administrator
 
